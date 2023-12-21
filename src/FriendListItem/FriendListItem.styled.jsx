@@ -1,7 +1,6 @@
 import styled from 'styled-components';
 
 export const Status = styled.span`
-    display: block;
     width: 14px;
     height: 14px;
     border-radius: 50%;
